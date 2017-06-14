@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+}
+#train{
+  height: 120px;
+  width: 200px;
+  left: 0;
+}
+#rails {
+  margin-top: 10%;
+  margin-left: 10%;
+  height: inherit;
+  width: 70%;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+#stopButton{
+  margin-left: 40%;
+  margin-top: 5%;
+  height: 40px;
+  width: 100px;
+}
